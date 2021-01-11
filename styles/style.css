@@ -142,6 +142,7 @@ hr {
     align-items: center;
     overflow: hidden;
     border-radius: 12px;
+    background-color: #2e1f42;
 }
 
 .gallery__item img {
